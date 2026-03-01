@@ -10,3 +10,4 @@ A collection of AHK v2 scripts for window management and app launching.
 | **Win + F**        | Center Window           | master.ahk      |
 | **Ctrl + Alt + R** | Reload Master           | master.ahk      |
 | **Win + W**        | Close Window (Admin)    | admin_tools.ahk |
+| **Ctrl + Shift + Alt + R** | Reload Admin           | admin_tools.ahk      |
