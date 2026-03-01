@@ -8,5 +8,5 @@ A collection of AHK v2 scripts for window management and app launching.
 | **Win + Enter**    | Launch WSL              | master.ahk      |
 | **Win + M**        | Toggle Maximize/Restore | master.ahk      |
 | **Win + F**        | Center Window           | master.ahk      |
-| **Win + W**        | Close Window (Admin)    | admin_tools.ahk |
 | **Ctrl + Alt + R** | Reload Master           | master.ahk      |
+| **Win + W**        | Close Window (Admin)    | admin_tools.ahk |
