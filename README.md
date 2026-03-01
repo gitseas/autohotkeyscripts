@@ -1,4 +1,4 @@
-# Windows Productivity Scripts
+# Windows Scripts
 A collection of AHK v2 scripts for window management and app launching.
 ## Hotkeys
 | Key                | Action | File |
