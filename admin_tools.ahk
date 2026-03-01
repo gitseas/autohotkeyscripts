@@ -1,7 +1,6 @@
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 
-; === ADMIN AUTO-ELEVATION ===
 ; Restarts the script with Administrative privileges if not already elevated
 if !A_IsAdmin
 {
@@ -41,4 +40,5 @@ InstallKeybdHook() ; Ensures keys are caught even if focus is weird [cite: 4, 5]
     ToolTip("Reloading Admin Tools...")
     SetTimer () => ToolTip(), -1000
     Reload()
+
 }
