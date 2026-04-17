@@ -1,5 +1,6 @@
 # Windows Scripts
 A collection of AHK v2 scripts for window management and app launching.
+My retarded setup to make my retarded windows somewhat useful. 
 ## Hotkeys
 | Key                | Action | File |
 | :----------------: | :---------------------: | :-------------: |
@@ -11,3 +12,6 @@ A collection of AHK v2 scripts for window management and app launching.
 | **Ctrl + Alt + R** | Reload Master           | master.ahk      |
 | **Win + W**        | Close Window (Admin)    | admin_tools.ahk |
 | **Ctrl + Shift + Alt + R** | Reload Admin           | admin_tools.ahk      |
+
+
+--Vibe coded, so don't expect much. 🥀
